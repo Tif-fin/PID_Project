@@ -7,7 +7,7 @@ pip install dash plotly
 
 How to Run?
 ```
-python pid_pr.py
+python pid_2.py
 ```
 
 
