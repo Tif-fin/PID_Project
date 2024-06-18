@@ -1,6 +1,3 @@
-import math
-
-
 class Drone:
     def __init__(self,altitude=0, velocity=0, weight=1.0) -> None:
         self.altitude = altitude
